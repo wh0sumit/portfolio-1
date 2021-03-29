@@ -202,6 +202,15 @@
     }
 }
 
+.btn-custom{
+    background-color: #341f97 !important;
+    transition: all 2s;
+}
+.btn-custom:hover{
+    background-color:black !important;
+
+}
+
 
 
 
@@ -388,10 +397,6 @@ img {
     border-style: none;
 }
 
-svg {
-    overflow: hidden;
-    vertical-align: middle;
-}
 
 table {
     border-collapse: collapse;
